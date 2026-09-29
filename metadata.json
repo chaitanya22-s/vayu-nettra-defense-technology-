@@ -1,0 +1,8 @@
+{
+  "name": "SMARTSCAN EW",
+  "description": "Smart Scan Strategy for Electronic Warfare - Adaptive Intelligence for Spectrum Surveillance Simulation platform for research and algorithm evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
